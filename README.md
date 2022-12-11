@@ -1,4 +1,4 @@
-### 안녕하세요 서창민 입니다. 👋
+### 데이터를 통한 문제해결을 좋아하는 개발자 서창민 입니다.
 
 <!--
 **0229cm/0229cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
