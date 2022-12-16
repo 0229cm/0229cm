@@ -4,6 +4,13 @@ notion address -
 
 #### E-mail - 0229cm@gmail.com
 
+저는 이런 사람입니다.
+-
+-
+-
+-
+-
+
 <!--
 **0229cm/0229cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
