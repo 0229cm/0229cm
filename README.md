@@ -11,6 +11,13 @@
 
 🗓Notion Address - 🔧 ing
 
+-----
+
+학력 및 etc
+-
+-
+-
+
 <!--
 **0229cm/0229cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
