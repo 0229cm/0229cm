@@ -9,14 +9,16 @@
 - 꾸준하고 천천히 멈추지 않으며 성장하려 노력합니다.
 ------
 
-🗓Notion Address - 🔧 ing
+학력 및 이력
+-
+-
+-
 
 -----
 
-학력 및 etc
--
--
--
+🗓Notion Address - 🔧 ing
+
+-----
 
 <!--
 **0229cm/0229cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
