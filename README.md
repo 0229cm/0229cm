@@ -10,7 +10,7 @@
 ------
 
 👨‍🎓학력 및 이력
-- 2015 ~ 2017 Le cordon blue Sydney
+- 2015 ~ 2017 Le cordon bleu Sydney
 - 2019 ~
 - 2020 ~
 - 2021 ~
