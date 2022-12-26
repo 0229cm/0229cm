@@ -16,9 +16,7 @@
 
 -----
 
-🗓Notion Address - 🔧 ing 
-
-<p><a href="https://github.com/0229cm" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a></p>
+Notion Address -  ing <p><a href="https://github.com/0229cm" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a></p>
 
 
 -----
