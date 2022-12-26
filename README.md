@@ -14,7 +14,7 @@
 - 2020 ~ 2021 더조은 빅데이터 과정 참여
 - 2021 ~ 2022 fast caumpus byte degree Datascience & deeplearning 이수 & 이론공부 
 - 2022 ~ 2022-12-30 이어드림스쿨2기 참여
-- 2023 ~ now 
+- 2023 ~ 
 
 -----
 
