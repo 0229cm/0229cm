@@ -17,7 +17,7 @@
 -----
 
 Portfolio -  ing 
-<p><a href="https://github.com/0229cm" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a></p>
+<p><a href="https://0229cm.oopy.io" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a></p>
 
 
 -----
