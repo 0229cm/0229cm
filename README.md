@@ -9,7 +9,7 @@
 
 👨‍🎓학력 및 이력
 - 2015 ~ 2020 Le cordon bleu Sydney & working as a chef
-- 2020 ~ 2021 더조은 빅데이터 수료
+- 2020 ~ 2021 더조은아카데미 빅데이터 분석을 위한 AI 응용소프트웨어 개발자 과정 수료
 - 2021 ~ 2022 Fastcaumpus byte degree Datascience & deeplearning 이수 & 이론공부 
 - 2022 ~ 2022-12-30 이어드림스쿨2기 수료
 - 2023 ~ 
